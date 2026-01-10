@@ -80,7 +80,7 @@ class NandiniMittal:
   <a href="https://github.com/nandinimittal2704">
     <img src="https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://leetcode.com/u/nandinimittal2704/">
+  <a href="[https://leetcode.com/u/nandinimittal2704/](https://leetcode.com/u/8T9V8m2CXH/)">
     <img src="https://img.shields.io/badge/LeetCode-DSA-orange?style=for-the-badge&logo=leetcode" />
   </a>
   <a href="mailto:nandinimittal2704@email.com">
