@@ -89,68 +89,85 @@ class NandiniMittal:
 </div>
 
 ---
+<table> <tr> <td width="50%" valign="top">
+🛒 End-to-End E-commerce Data Engineering Pipeline
 
-## 🚀 Featured Projects
+CSV → ETL → PostgreSQL → Analytics
 
-<table>
-<tr>
-<td width="50%" valign="top">
+A production-style end-to-end data engineering pipeline that ingests raw e-commerce data, transforms it using Python & SQL, and loads it into an analytics-ready star schema warehouse.
 
-### 🌦 Weather Data ELT Pipeline  
-**API → Snowflake → SQL Transform**
+Tech: Python Pandas PostgreSQL SQL ETL
+
+📥 Raw → staging → processed data layers
+
+⭐ Star schema (fact + dimension tables)
+
+🔑 Referential integrity with PK/FK
+
+📊 Business analytics (revenue, LTV, retention)
+
+🧠 Designed for interview-level SQL analysis
+
+🔗 Repo: https://github.com/nandinimittal2704/e-commerce-data-pipeline
+
+</td> <td width="50%" valign="top">
+🌦 Weather Data ELT Pipeline
+
+API → Snowflake → SQL Transform
 
 A production-style ELT pipeline that ingests real-time weather data from REST APIs, stores raw JSON in Snowflake, and transforms it into analytics-ready tables using SQL.
 
-**Tech:** `Python` `Snowflake` `SQL` `AWS` `Airflow`
+Tech: Python Snowflake SQL AWS Airflow
 
-- 📥 Raw JSON ingestion (VARIANT)
-- 🧱 ELT-first architecture
-- 🕒 Metadata-driven ingestion
-- 🔍 SQL-based transformations
+📥 Raw JSON ingestion (VARIANT)
 
-🔗 **Repo:** https://github.com/nandinimittal2704/weather-data-pipeline
+🧱 ELT-first architecture
 
-</td>
+🕒 Metadata-driven ingestion
 
-<td width="50%" valign="top">
+🔍 SQL-based transformations
 
-### 💳 UPI Transaction Analytics  
-**1M+ Records | KPI Automation**
+🔗 Repo: https://github.com/nandinimittal2704/weather-data-pipeline
+
+</td> </tr> <tr> <td width="50%" valign="top">
+💳 UPI Transaction Analytics
+
+1M+ Records | KPI Automation
 
 Designed an analytics pipeline to process large-scale UPI transaction data, enabling trend analysis, failure detection, and operational KPI reporting.
 
-**Tech:** `SQL` `Python` `Power BI` `Excel`
+Tech: SQL Python Power BI Excel
 
-- 📊 1M+ records processed
-- ⚡ Optimized SQL (CTEs, window functions)
-- 📈 Automated dashboards
-- ⏱️ 30% reporting efficiency improvement
+📊 1M+ records processed
 
-🔗 **Repo:** https://github.com/nandinimittal2704/UPI-Transaction-report
+⚡ Optimized SQL (CTEs, window functions)
 
-</td>
-</tr>
+📈 Automated dashboards
 
-<tr>
-<td width="50%" valign="top">
+⏱️ 30% reporting efficiency improvement
 
-### 🏥 Insurance Data Reporting System  
-**Claims • Premiums • Risk Metrics**
+🔗 Repo: https://github.com/nandinimittal2704/UPI-Transaction-report
+
+</td> <td width="50%" valign="top">
+🏥 Insurance Data Reporting System
+
+Claims • Premiums • Risk Metrics
 
 Built a data processing and reporting workflow for insurance datasets, transforming raw claims data into business-ready insights.
 
-**Tech:** `SQL` `Power BI` `Excel`
+Tech: SQL Power BI Excel
 
-- 📑 500K+ records analyzed
-- 📉 Claim severity & loss ratios
-- 🧪 Data sanity checks
-- 📌 KPI dashboards for stakeholders
+📑 500K+ records analyzed
 
-🔗 **Repo:** https://github.com/nandinimittal2704/Insurance-data-report
+📉 Claim severity & loss ratios
 
-</td>
+🧪 Data sanity checks
 
-<td width="50%" valign="top">
+📌 KPI dashboards for stakeholders
+
+🔗 Repo: https://github.com/nandinimittal2704/Insurance-data-report
+
+</td> </tr> <tr> <td colspan="2" align="center">
 
 ### 🛠️ More Coming Soon  
 **Currently Building**
