@@ -57,48 +57,45 @@
 
 # 🚀 Featured Projects
 
-### 🤖 AI Interview Platform
+<p align="center">
 
-AI powered mock interview platform that asks questions dynamically and evaluates answers.
+<a href="https://github.com/nandinimittal2704/ai-interviewer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nandinimittal2704&repo=ai-interviewer&theme=tokyonight" />
+</a>
 
-**Tech Stack**
+<a href="https://github.com/nandinimittal2704/acadence-frontend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nandinimittal2704&repo=acadence-frontend&theme=tokyonight" />
+</a>
 
-MERN • Gemini AI • Speech Recognition
+</p>
 
-🔗 Repo
-https://github.com/nandinimittal2704/ai-interviewer
+<p align="center">
 
----
+<a href="https://github.com/nandinimittal2704/pathfinding-visualizer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nandinimittal2704&repo=pathfinding-visualizer&theme=tokyonight" />
+</a>
 
-### 🎓 Acadence
 
-Modern education platform frontend built with React.
 
-**Tech**
+</p>
 
-React • JavaScript • REST APIs
 
-🔗 Repo
-https://github.com/nandinimittal2704/acadence-frontend
-
----
-
-### 🧠 Pathfinding Visualizer
-
-Interactive visualization of graph algorithms.
-
-**Algorithms**
-
-Dijkstra • A* • BFS • DFS
-
-🔗 Repo
-https://github.com/nandinimittal2704/pathfinding-visualizer
 
 ---
 
-# 🏆 GitHub Achievements
+# 📊 GitHub Activity
 
-<img src="https://github-profile-trophy.vercel.app/?username=nandinimittal2704&theme=tokyonight&row=1&column=6"/>
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nandinimittal2704&theme=tokyonight" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nandinimittal2704&theme=tokyo-night" />
+
+</p>
 
 ---
 
