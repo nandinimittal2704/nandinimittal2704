@@ -1,266 +1,147 @@
-<h1 align="center">Hey there , I'm Nandini Mittal 👋</h1>
-
-<p align="center">
-  <b>I don’t just call APIs — I design data systems.</b><br/>
-  Aspiring Data Engineer • B.Tech CS @ JIIT
-</p>
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com
-    ?font=Fira+Code
-    &size=18
-    &pause=1000
-    &color=7B68EE
-    &center=true
-    &vCenter=true
-    &width=700
-    &lines=Building+Production-Grade+Data+Pipelines;
-    Designing+ELT+Systems+with+Python+%26+SQL;
-    Cloud+Data+Warehousing+%7C+Snowflake+%7C+AWS;
-    From+Raw+APIs+to+Analytics-Ready+Data"
-  />
-</p>
-
-
-
----
-
-### 🧠 What I Do
-
-```python
-class NandiniMittal:
-    def __init__(self):
-        self.role = "Aspiring Data Engineer"
-        self.focus = ["ELT Pipelines", "SQL Analytics", "Cloud Data Warehousing"]
-        self.tech_stack = ["Python", "SQL", "Snowflake", "AWS", "Airflow"]
-        self.impact = {
-            "records_processed": "1M+",
-            "pipelines_built": "3+",
-            "manual_effort_reduced": "30%+"
-        }
-    
-    def current_work(self):
-        return "Designing reliable data pipelines that turn raw APIs into analytics-ready data"
-
-
-``` 
-
----
-
-### 🧰 Tech Stack
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Snowflake-Data%20Warehouse-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL-Advanced-critical?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Airflow-Workflow%20Orchestration-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ELT-Modern%20Data%20Pipelines-informational?style=for-the-badge" />
+
+# Hey there 👋 I'm Nandini Mittal
+
+💻 Aspiring **Software Engineer **
+🎓 B.Tech Computer Science
+🚀 Passionate about **Data Systems, Full Stack Development, and Scalable Infrastructure**
+
 </div>
 
 ---
 
-### 🔗 Connect With Me
+# 👩‍💻 About Me
 
-<div align="center">
-  <a href="https://linkedin.com/in/nandini-mittal-776bb5284">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/nandinimittal2704">
-    <img src="https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://leetcode.com/u/8T9V8m2CXH/">
-    <img src="https://img.shields.io/badge/LeetCode-DSA-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-  <a href="mailto:nandinimittal2704@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail" />
-  </a>
+* 🔭 Currently building **AI-powered and scalable web applications**
+* 📚 Learning **Data Engineering, Cloud Infrastructure, and System Design**
+* 💡 Interested in **Backend Systems, Distributed Systems, and AI Applications**
+* ⚡ I enjoy building **real-world projects and solving algorithmic problems**
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
 </div>
 
 ---
-<table> <tr> <td width="50%" valign="top">
-🛒 End-to-End E-commerce Data Engineering Pipeline
 
-CSV → ETL → PostgreSQL → Analytics
+### Web Development
 
-A production-style end-to-end data engineering pipeline that ingests raw e-commerce data, transforms it using Python & SQL, and loads it into an analytics-ready star schema warehouse.
-
-Tech: Python Pandas PostgreSQL SQL ETL
-
-📥 Raw → staging → processed data layers
-
-⭐ Star schema (fact + dimension tables)
-
-🔑 Referential integrity with PK/FK
-
-📊 Business analytics (revenue, LTV, retention)
-
-🧠 Designed for interview-level SQL analysis
-
-🔗 Repo: https://github.com/nandinimittal2704/e-commerce-data-pipeline
-
-</td> <td width="50%" valign="top">
-🌦 Weather Data ELT Pipeline
-
-API → Snowflake → SQL Transform
-
-A production-style ELT pipeline that ingests real-time weather data from REST APIs, stores raw JSON in Snowflake, and transforms it into analytics-ready tables using SQL.
-
-Tech: Python Snowflake SQL AWS Airflow
-
-📥 Raw JSON ingestion (VARIANT)
-
-🧱 ELT-first architecture
-
-🕒 Metadata-driven ingestion
-
-🔍 SQL-based transformations
-
-🔗 Repo: https://github.com/nandinimittal2704/weather-data-pipeline
-
-</td> </tr> <tr> <td width="50%" valign="top">
-💳 UPI Transaction Analytics
-
-1M+ Records | KPI Automation
-
-Designed an analytics pipeline to process large-scale UPI transaction data, enabling trend analysis, failure detection, and operational KPI reporting.
-
-Tech: SQL Python Power BI Excel
-
-📊 1M+ records processed
-
-⚡ Optimized SQL (CTEs, window functions)
-
-📈 Automated dashboards
-
-⏱️ 30% reporting efficiency improvement
-
-🔗 Repo: https://github.com/nandinimittal2704/UPI-Transaction-report
-
-</td> <td width="50%" valign="top">
-🏥 Insurance Data Reporting System
-
-Claims • Premiums • Risk Metrics
-
-Built a data processing and reporting workflow for insurance datasets, transforming raw claims data into business-ready insights.
-
-Tech: SQL Power BI Excel
-
-📑 500K+ records analyzed
-
-📉 Claim severity & loss ratios
-
-🧪 Data sanity checks
-
-📌 KPI dashboards for stakeholders
-
-🔗 Repo: https://github.com/nandinimittal2704/Insurance-data-report
-
-</td> </tr> <tr> <td colspan="2" align="center">
-
-### 🛠️ More Coming Soon  
-**Currently Building**
-
-- Incremental ELT pipelines  
-- dbt-based transformations  
-- Airflow orchestration  
-- Data quality checks  
-
-🚧 Actively learning & shipping
-
-</td>
-</tr>
-</table>
-
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+</div>
 
 ---
 
+### Cloud & DevOps
 
-## 🛠️ Tech Arsenal
-
-### ⚙️ Languages & Core Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
-
----
-
-### 🧱 Data Engineering & Warehousing
-<p align="center">
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ELT%20Pipelines-4B0082?style=for-the-badge"/>
-</p>
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+</div>
 
 ---
 
-### ☁️ Cloud & Infrastructure
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-</p>
+# 🚀 Featured Projects
+
+### 🤖 AI Interview Platform
+
+AI-powered mock interview system that asks dynamic questions and evaluates responses.
+
+🔗 https://github.com/nandinimittal2704/ai-interviewer
+
+Tech:
+
+* MERN Stack
+* Gemini AI API
+* Speech Recognition
 
 ---
 
-### 🔄 Orchestration & Automation
-<p align="center">
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cron%20Jobs-3C873A?style=for-the-badge"/>
-</p>
+### 🎓 Acadence Frontend
+
+A modern **education platform frontend** built with React.
+
+🔗 https://github.com/nandinimittal2704/acadence-frontend
+
+Tech:
+
+* React
+* JavaScript
+* Modern UI Components
 
 ---
 
-### 🧪 Analytics & Visualization
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
+### 🧠 Pathfinding Visualizer
+
+Interactive visualization of **graph algorithms**.
+
+🔗 https://github.com/nandinimittal2704/pathfinding-visualizer
+
+Algorithms:
+
+* Dijkstra
+* A*
+* BFS
+* DFS
 
 ---
 
-### 🧰 Dev Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nandinimittal2704&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nandinimittal2704&theme=tokyonight"/>
+
+</div>
 
 ---
 
-<p align="center">
-  💬 <b>Let’s Build Scalable Data Systems</b><br/>
-  Open to <b>Data Engineering</b>, <b>Data Operations</b>, and <b>Analytics Engineering</b> internships
-</p>
+# 📫 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/nandini-mittal-776bb5284">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:nandinimittal2704@email.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
 
----
+<a href="https://www.linkedin.com/in/nandini-mittal-776bb5284/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<p align="center">
-  <i>“Good data engineers don’t just move data — they design systems that scale.”</i>
-</p>
+<a href="https://github.com/nandinimittal2704">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
+<a href="mailto:nandinimittal2704@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
+# 💡 Quote
 
+> “Good engineers build features.
+> Great engineers build systems.”
+
+---
+
+⭐ *Always learning. Always building.*
