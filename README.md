@@ -1,9 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Nandini Mittal
+# Hi 👋 I'm Nandini Mittal
 
-💻 **Aspiring Software Engineer | Full Stack Developer**
-🚀 Passionate about **building scalable systems & AI applications**
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Full+Stack+Developer;AI+%26+Cloud+Enthusiast;Building+Scalable+Systems"/>
 
 </div>
 
@@ -11,11 +10,19 @@
 
 # 👩‍💻 About Me
 
-* 🎓 B.Tech Computer Science
-* 🔭 Currently building **AI-powered applications**
-* 🧠 Interested in **Backend Systems, Data Engineering, and Cloud**
-* 📚 Learning **System Design, Docker, and AWS**
-* ⚡ I love building **real-world projects**
+🎓 B.Tech Computer Science Student
+
+🚀 Passionate about building **AI powered applications and scalable systems**
+
+💡 Interested in
+
+* Full Stack Development
+* AI Applications
+* Cloud Infrastructure
+* System Design
+* Data Engineering
+
+⚡ I enjoy building **real world products and solving complex problems**
 
 ---
 
@@ -23,67 +30,99 @@
 
 ### Languages
 
-Python • JavaScript • C++ • SQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+---
 
 ### Web Development
 
-React • Node.js • Express • MongoDB • HTML • CSS
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+---
 
 ### Cloud & DevOps
 
-Docker • AWS • Linux • Git
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 AI Interview Platform
+### 🤖 AI Interview Platform
 
-AI-powered mock interview platform that asks dynamic questions and evaluates answers.
+AI powered mock interview platform that asks questions dynamically and evaluates answers.
 
 **Tech Stack**
 
-MERN Stack • Gemini AI API • Speech Recognition
+MERN • Gemini AI • Speech Recognition
 
-🔗 https://github.com/nandinimittal2704/ai-interviewer
+🔗 Repo
+https://github.com/nandinimittal2704/ai-interviewer
 
 ---
 
-## 🎓 Acadence Platform
+### 🎓 Acadence
 
-Modern education platform with clean UI and scalable architecture.
+Modern education platform frontend built with React.
 
-**Tech Stack**
+**Tech**
 
 React • JavaScript • REST APIs
 
-🔗 https://github.com/nandinimittal2704/acadence-frontend
+🔗 Repo
+https://github.com/nandinimittal2704/acadence-frontend
 
 ---
 
-## 🧠 Pathfinding Visualizer
+### 🧠 Pathfinding Visualizer
 
-Interactive visualization tool for graph algorithms.
+Interactive visualization of graph algorithms.
 
 **Algorithms**
 
 Dijkstra • A* • BFS • DFS
 
-🔗 https://github.com/nandinimittal2704/pathfinding-visualizer
+🔗 Repo
+https://github.com/nandinimittal2704/pathfinding-visualizer
+
+---
+
+# 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=nandinimittal2704&theme=tokyonight&row=1&column=6"/>
 
 ---
 
 # 📫 Connect With Me
 
-🔗 LinkedIn
-https://www.linkedin.com/in/nandini-mittal-776bb5284/
+<a href="https://www.linkedin.com/in/nandini-mittal-776bb5284/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-💻 GitHub
-https://github.com/nandinimittal2704
+<a href="https://github.com/nandinimittal2704">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-📧 Email
-[nandinimittal2704@gmail.com](mailto:nandinimittal2704@gmail.com)
+<a href="mailto:nandinimittal2704@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 ---
 
-⭐ *Always learning, always building.*
+# 💡 Developer Quote
+
+> “Good engineers build features.
+> Great engineers build systems.”
+
+---
+
+⭐ **Always learning. Always building.**
