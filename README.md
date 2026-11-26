@@ -64,7 +64,7 @@
 </a>
 
 <a href="https://github.com/nandinimittal2704/codevanta">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nandinimittal2704&repo=acadence-frontend&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nandinimittal2704&repo=codevanta&theme=tokyonight" />
 </a>
 
 </p>
@@ -72,7 +72,7 @@
 <p align="center">
 
 <a href="https://github.com/nandinimittal2704/AI-GitHub-Reviewer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nandinimittal2704&repo=pathfinding-visualizer&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nandinimittal2704&repo=AI-GitHub-Reviewer&theme=tokyonight" />
 </a>
 
 
