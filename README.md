@@ -63,7 +63,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nandinimittal2704&repo=ai-interviewer&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/nandinimittal2704/acadence-frontend">
+<a href="https://github.com/nandinimittal2704/codevanta">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nandinimittal2704&repo=acadence-frontend&theme=tokyonight" />
 </a>
 
@@ -71,7 +71,7 @@
 
 <p align="center">
 
-<a href="https://github.com/nandinimittal2704/pathfinding-visualizer">
+<a href="https://github.com/nandinimittal2704/AI-GitHub-Reviewer">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nandinimittal2704&repo=pathfinding-visualizer&theme=tokyonight" />
 </a>
 
